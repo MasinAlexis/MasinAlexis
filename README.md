@@ -23,8 +23,8 @@ Redes Sociales:
 <code><a href="https://about.gitlab.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 <code><a href="https://www.ibm.com/docs/en/i" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ibm/ibm-ar21.svg"></a></code>
 <code><a href="https://www.json.org/json-es.html" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a></code>
-<code><a href="https://trello.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
+<code><a href="https://trello.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/trello/trello-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></a></code>
 
 
 
