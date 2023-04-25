@@ -8,7 +8,7 @@ class Biografia extends SoftwareDeveloper {
 }
 ```
 Redes Sociales:
-    ⭐️ [Linkedin](https://www.linkedin.com/in/alexismasin/) | ⭐️ [Twitter](https://twitter.com/AlexisMasin)
+    ⭐️ [Linkedin](https://www.linkedin.com/in/alexismasin/)  | ⭐️ [Twitter](https://twitter.com/AlexisMasin)
 
 ** 💬 Tecnologías
 
