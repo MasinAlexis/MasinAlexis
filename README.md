@@ -2,8 +2,8 @@
 
 ```java
 class Biografia extends SoftwareDeveloper {
-  private String nombreApellido    = "Alexis Masin";
-  private String descripcion       = "Desarrollador Java / Estudiante de Ingeniería en Sistemas De Información";
+  private String nombreApellido = "Alexis Masin";
+  private String descripcion = "Desarrollador Java / Estudiante de Ingeniería en Sistemas De Información";
   private String lugarDeResidencia = "Resistencia - Chaco";
 }
 ```
